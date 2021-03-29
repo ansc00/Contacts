@@ -16,7 +16,7 @@ Demonstiert die Nutzung von der View über den Controller bis hin zu Datenhaltun
  
 <p align="left">
   <img src="https://github.com/ansc00/Contacts/blob/main/img/5.png" width="200" height="400" >
-  <img src="https://github.com/ansc00/Contacts/blob/main/img/4.png" width="200" height="400">
+  <img src="https://github.com/ansc00/Contacts/blob/main/img/1.png" width="200" height="400">
  <img src="https://github.com/ansc00/Contacts/blob/main/img/2.png" width="200" height="400">
 </p>
 
