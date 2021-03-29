@@ -131,6 +131,7 @@ class AddNewPersonViewController: UIViewController, UITextFieldDelegate {
         //print("Add gedrückt")
         
         if validInputFields() {
+            
             let address = CoreDataDB.instance.createAddress(_postal: postalTF.text!, _city: cityTF.text!, _street: streetTF.text!, _housenumber: Int64(houseNumberTF.text!)! )
             
             let imageAsNSData: NSData = photoIV.image?.pngData() as! NSData
