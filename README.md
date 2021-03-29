@@ -9,8 +9,8 @@ Demonstiert die Nutzung von der View über den Controller bis hin zu Datenhaltun
 - CoreData (SQL Database)
 - String, Int64, Binary Data <> NSDATA für Bildspeicherung
 - CRUD cread, read, (update), delete
-- Umgang mit verschiedenen Views, Buttons, TextFields
-- Tableview
+- Umgang mit verschiedenen Views, Buttons, UITextFields, UISegmentControl
+- Tableview, customCells
 - CustomUILabel
 - uvm
  
