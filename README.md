@@ -1,6 +1,6 @@
 # Contacts
  
- Contacts/Persons
+ <b> Contacts/Persons </b>
  
 Beispiel iOS App 
 Demonstiert die Nutzung von der View über den Controller bis hin zu Datenhaltung
