@@ -2,7 +2,7 @@
  
  <b> Contacts/Persons </b>
  
-Beispiel iOS App 
+Beispiel iOS App <br>
 Demonstiert die Nutzung von der View über den Controller bis hin zu Datenhaltung
 - MVC Pattern
 - Singleton Pattern
